@@ -1,0 +1,31 @@
+/*set img dimensions*/
+
+img {
+width:250px;
+height:200px;
+}
+
+/* make this image come to the middle*/
+
+body {
+text-align: center;
+}
+
+/* font to arial*/
+
+body {
+font-family: 'Arial';
+}
+
+/* make this entire body have the text color dark red*/
+
+body {
+  color: darkred; 
+}
+
+
+/* bolden the text*/
+
+body {
+  font-weight: bold; 
+}
